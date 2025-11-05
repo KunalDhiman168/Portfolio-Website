@@ -6,7 +6,7 @@ Welcome to the repository of my **personal portfolio website** – a digital spa
 
 This portfolio is designed to serve as a **professional resume**, **project showcase**, and a **contact platform**. It helps recruiters, collaborators, and potential clients get a quick snapshot of who I am, what I do, and how to get in touch.
 
-Visit the live website here: https://kunaldhiman168.github.io/PortFolio-Website/
+Visit the live website here: 
 
 ## ✨ Key Features
 
